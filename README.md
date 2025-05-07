@@ -1,3 +1,3 @@
 # negev-class
-## this is test
+## with two hushtags
 without any hushtag
